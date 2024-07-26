@@ -1,0 +1,14 @@
+{
+  "hash": "99737bde5e9e0518f2a1e5a966652bd4",
+  "result": {
+    "markdown": "---\ntitle: \"Pertemuan Kredo 8 dan 9\"\nauthor: \"Ed\"\ndate: \"2023-10-10\"\ncategories: [kredo, pendalaman iman]\nimage: \"IMG-20231011-WA0038.jpg\"\n---\n\n\nThis is a post with executable code.yang di edit\n\n![](IMG-20231010-WA0052.jpg)\nCopyOf\n-   example 2\n\n-   example 3\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

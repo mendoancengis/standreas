@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Beranda"
+  navbar:
+    left:
+      - about.qmd
+      - href: https://instagram.com/lingkungan_st.andreas_pwt?igshid=MzMyNGUyNmU2YQ==
+        icon: instagram
+        text: Instagram
+format:    
+  html:
+    theme: solar
+    css: styles.css
+
+editor: visual
+
